@@ -10,7 +10,7 @@
 # Sobre 
 
 <p> 
-O <a href="https://web.dio.me/track/gft-start-5-java">Bootcamp GFT Start# 5 Java</a> é um programa gratuito para formação e recrutamento de estagiários pela <a href="https://www.gft.com/br/pt>">GFT</a>. O programa explora uma trilha completa em Java para pessoas regularmente matriculadas no ensino superior e contém cursos, desafios práticos e mentorias exclusivas com experts da multinacional. A GFT está com 100 vagas de estágio abertas e os melhores classificados no bootcamp serão selecionados para seguir nas fases seguintes do processo seletivo de contratação.
+O <a href="https://www.dio.me/bootcamp/gft-start-5-java">Bootcamp GFT Start# 5 Java</a> é um programa gratuito para formação e recrutamento de estagiários pela <a href="https://www.gft.com/br/pt">GFT</a>. O programa explora uma trilha completa em Java para pessoas regularmente matriculadas no ensino superior e contém cursos, desafios práticos e mentorias exclusivas com experts da multinacional. A GFT está com 100 vagas de estágio abertas e os melhores classificados no bootcamp serão selecionados para seguir nas fases seguintes do processo seletivo de contratação.
 
 <p>Esse repositório foi criado com o intuito de certificar o conhecimento em relação ao <i><b>Desafio de Projeto</b></i> do <i><b>Módulo I - Fundamentos</b></i>😄</p>
 
